@@ -1,6 +1,5 @@
 package Library_Management_System.Entities;
 
-
 import Library_Management_System.Enums.Genre;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
